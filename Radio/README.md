@@ -1,6 +1,6 @@
 # Radio Code Examples
 
-##To-Do List
+## To-Do List
 - Communicate with the CC1101 and the Pi
 - Transmit with the CC1101 (Using C/C++)
 - Receive with the CC1101 (Using C/C++)
