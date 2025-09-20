@@ -1,3 +1,6 @@
 [submodule "Radio/libraries/RadioLib"]
 	path = Radio/libraries/RadioLib
 	url = https://github.com/jgromes/RadioLib.git
+[submodule "Radio/libraries/CC1101"]
+	path = Radio/libraries/CC1101
+	url = https://github.com/SpaceTeddy/CC1101.git
