@@ -1,5 +1,12 @@
 # Radio Code Examples
 
+##To-Do List
+- Communicate with the CC1101 and the Pi
+- Transmit with the CC1101 (Using C/C++)
+- Receive with the CC1101 (Using C/C++)
+- Transmit a "custom" packet
+- Transmit a "file" of raw data
+
 
 ## CMake
 ```
