@@ -11,3 +11,7 @@ The current chosen radio is the `CC1101` which has a range of supported modulati
 
 ## Camera 
 The Pi will use the Raspberry Pi Camera v2.
+
+## LEDs
+The SSDV hardware has 3 LEDs for any user needs. The 3 GPIO pins connected to the LEDs are `16,20,21`. 
+A blink example is included which blinks all 3 LEDs. As of now `LED3 - GPIO 21` is not working but is a hardware error rather than software.
